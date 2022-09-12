@@ -1,1 +1,1 @@
-Presentació de l'aplicació web.
+// Presentació de l'aplicació web.
