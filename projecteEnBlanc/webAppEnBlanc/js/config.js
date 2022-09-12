@@ -1,1 +1,1 @@
-Configuració de la webApp
+// Configuració de la webApp
